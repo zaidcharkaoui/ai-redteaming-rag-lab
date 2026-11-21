@@ -1,3 +1,5 @@
+> **Projet éducatif** : les attaques de ce dépôt sont menées uniquement contre un laboratoire local (modèle phi3 via Ollama) avec un secret fictif. Ne les utilisez jamais contre des systèmes sans autorisation.
+
 # AI Red Teaming Lab : RAG d'entreprise (OWASP Top 10 LLM)
 
 Laboratoire local (Ollama + phi3, LangChain, ChromaDB) pour attaquer puis défendre un RAG.
